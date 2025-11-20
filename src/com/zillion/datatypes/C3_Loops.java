@@ -1,7 +1,10 @@
 package com.zillion.datatypes;
 
-public class Loops {
+public class C3_Loops {
 
+	
+	// Link for reference -> https://www.geeksforgeeks.org/java/loops-in-java/
+	
 	public static void main(String[] args) {
 		// Loops: 3 different loops
 		// 1. Do - while

@@ -1,8 +1,11 @@
 package com.zillion.datatypes;
 
-public class VariablesAndDatatypes {
+public class C1_VariablesAndDatatypes {
 
+	// Link for reference -> https://www.geeksforgeeks.org/java/java-data-types/
+	
 	public static void main(String[] args) {
+		
 		// Variables
 		
 		int a = 10;

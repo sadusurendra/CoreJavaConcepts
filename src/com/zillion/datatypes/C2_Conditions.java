@@ -1,7 +1,9 @@
 package com.zillion.datatypes;
 
-public class Conditions {
+public class C2_Conditions {
 
+	// Link for reference -> https://www.geeksforgeeks.org/java/decision-making-javaif-else-switch-break-continue-jump/
+	// Nested If and Switch Differences -> https://www.google.com/search?q=difference+between+switch+and+else+if+ladder+java&sca_esv=100be553d7950a9c&sxsrf=AE3TifOqx1mxaHl72ti1lCeu_3uq04btPw%3A1763636823323&source=hp&ei=V_YeacyTEbmRseMPoJinmQ8&iflsig=AOw8s4IAAAAAaR8EZymMywQTMqWAoeMug7-Mm4iOgzTo&ved=0ahUKEwiMm_WSy4CRAxW5SGwGHSDMKfMQ4dUDCBk&uact=5&oq=difference+between+switch+and+else+if+ladder+java&gs_lp=Egdnd3Mtd2l6IjFkaWZmZXJlbmNlIGJldHdlZW4gc3dpdGNoIGFuZCBlbHNlIGlmIGxhZGRlciBqYXZhMgYQABgWGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyBRAAGO8FMgUQABjvBUieggFQAFjZf3ADeACQAQCYAYcCoAHAKKoBBjAuMzkuMbgBA8gBAPgBAZgCK6AC4inCAgoQABiABBhDGIoFwgIOEAAYgAQYsQMYgwEYigXCAgUQABiABMICChAjGIAEGCcYigXCAgsQABiABBiRAhiKBcICCxAAGIAEGLEDGIMBwgIKEAAYgAQYFBiHAsICBxAjGLECGCfCAgcQABiABBgKwgIPEAAYgAQYsQMYgwEYChgLwgIJEAAYgAQYChgLwgIMEAAYgAQYsQMYChgLwgIKEAAYgAQYsQMYDcICBxAAGIAEGA3CAhAQABiABBixAxiDARiKBRgNwgINEAAYgAQYsQMYigUYDcICBxAjGLACGCfCAg0QABiABBixAxiDARgNwgIJEAAYgAQYChgNwgIHEC4YgAQYDcICBhAAGA0YHsICCBAAGBYYChgewgIHECEYoAEYCpgDAJIHBjMuMzkuMaAHvuQCsgcGMC4zOS4xuAfXKcIHBjAuMzcuNsgHZA&sclient=gws-wiz
 	public static void main(String[] args) {
 		// To verify two values are same or not
 
