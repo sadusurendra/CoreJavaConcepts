@@ -1,7 +1,13 @@
-package com.zillion.oopsConcepts;
+package com.zillion.oopsConcepts.encapsulation;
 
 public class EmployeeDemo {
 
+	// We can Variables & Methods inside the class
+	
+	// Object --> To access variables/ methods of another class we create Objects
+
+//	Encapsulation - Binding data (fields) and methods that operate on that data within a single unit (class). It hides the internal implementation details and protects data from external, unauthorized access.
+	
 	public static void main(String[] args) {
 //		int id = 1;
 //		String name = "XYZ";

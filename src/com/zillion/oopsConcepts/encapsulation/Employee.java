@@ -1,4 +1,4 @@
-package com.zillion.oopsConcepts;
+package com.zillion.oopsConcepts.encapsulation;
 
 public class Employee {
 
